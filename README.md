@@ -22,7 +22,7 @@ This project is used by the following companies:
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**Client:** Github, KillerCoda, Text files & images
 
-**Server:** Node, Express
+**Server:** Linux
 
